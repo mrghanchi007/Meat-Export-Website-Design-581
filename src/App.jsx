@@ -9,7 +9,7 @@ import Slaughter from './pages/Slaughter';
 import Certifications from './pages/Certifications';
 import FAQ from './pages/FAQ';
 import Contact from './pages/Contact';
-import './App.css';
+// Don't import CSS here as we've moved it to main.jsx
 
 function App() {
   return (
